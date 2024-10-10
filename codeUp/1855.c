@@ -12,4 +12,5 @@ int main()
 {
     scanf("%d", &n);
     printf("%lld\n", f(n));
+    return 0;
 }
